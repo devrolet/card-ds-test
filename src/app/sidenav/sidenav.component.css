@@ -1,0 +1,21 @@
+.sidenav {
+    background: rgba(0, 52, 104, 1);
+    height: 100vh;
+    color: #fff;
+    top: 32px;
+    left: 34px;
+}
+
+.sidenav h4 {
+    width: 75px;
+    padding: 35px;
+}
+
+.sidenav ul li {
+    list-style: none;
+    font-size: 18px;
+}
+
+hr {
+    border: 1px solid #fff;
+}
