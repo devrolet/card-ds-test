@@ -2,5 +2,14 @@
     padding-top: 150px !important;
     height: 100vh;
     padding-left: 40px;
+    padding-right: 20px;
     background: #f0f0f0;
+}
+
+.content p {
+    color: rgb(128, 128, 128);
+}
+
+.card, .card-hdr {
+    margin-left: 15px;
 }
